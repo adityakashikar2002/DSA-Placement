@@ -1,3 +1,14 @@
+// Pythagorean Triplet in Java
+ 
+// A Pythagorean triple consists of three positive integers a, b, and c, such that a² + b² = c².
+// Such a triple is commonly written, and a well-known example is. If is a Pythagorean triple, then so is for any positive integer k.
+// A primitive Pythagorean triple is one in which a, b and c are co-prime.
+
+// Pythagorean Triplet in an Array in Java
+// We have to find the set of Pythagorean triples from the given array that satisfies pythagorean triplet condition.
+// Using Sorting (Time complexity: O(n^2) )
+// Note: Pythagorean triplets condition: a^2 + b^2 = c^2
+	
 import java.util.Arrays;
 
 class arr_pythagorean_triplet {
