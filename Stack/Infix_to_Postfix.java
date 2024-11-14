@@ -1,3 +1,5 @@
+// Precedence(Curr_Input_Char) <= Precedence(Char_In_Stack) then pop and later push
+
 class Solution {
     // Precedence Fn 
     public static int prec(char ch)
